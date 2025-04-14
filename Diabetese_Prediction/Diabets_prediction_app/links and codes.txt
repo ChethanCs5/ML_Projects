@@ -1,0 +1,32 @@
+ link 
+whatsapp - https://chat.whatsapp.com/JfDVg5INmB4830IA7fFbin
+youtube - https://youtube.com/@learnwithedmonk?si=EbgTkpn45SeGucSg
+instagram - https://www.instagram.com/learnwithmonk/
+
+Drive link
+https://drive.google.com/drive/folders/1BKPyKlqZbaWJrVTswK1EdEUI_-vOtgeI
+
+vscode link
+https://code.visualstudio.com/
+
+dataset link
+"https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv"
+
+#amazon account - https://signin.aws.amazon.com/signup?request_type=register
+#azure account - https://azure.microsoft.com/en-in/pricing/purchase-options/azure-account/
+
+### reading task ##
+
+linux terminal command - https://www.digitalocean.com/community/tutorials/linux-commands
+vs code with python - https://www.youtube.com/watch?v=D2cwvpJSBX4
+
+###### code #######
+
+<input type="number" name="preg" placeholder="preg" required="required">
+            <input type="number" name="plas" placeholder="plas" required="required">
+            <input type="number" name="pres" placeholder="pres" required="required">
+            <input type="number" name="skin" placeholder="skin" required="required">
+            <input type="number" name="test" placeholder="test" required="required">
+            <input type="number" name="mass" placeholder="mass" required="required">
+            <input type="number" name="pedi" placeholder="pedi" required="required">
+            <input type="number" name="age"  placeholder="age"  required="required">
