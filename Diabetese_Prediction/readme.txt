@@ -71,9 +71,3 @@ This project is open source, available under the [MIT License](LICENSE).
 
 ```
 
-Note: You should replace `your-username` with your actual GitHub username in the clone command. You might also want to add:
-- A `LICENSE` file if you choose MIT or another license
-- A `.gitignore` file
-- The actual Python script name if it's different from `diabetes_prediction.py`
-
-Would you like me to modify any part of this README or add additional sections?
