@@ -63,11 +63,4 @@ To make predictions on new data:
 ```python
 loaded_model = joblib.load('dib_79.pkl')
 predictions = loaded_model.predict(new_data)
-```
-
-## License
-
-This project is open source, available under the [MIT License](LICENSE).
-
-```
 
